@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-05T00:00:00.000Z",
+  "count": 1,
+  "categories": ["TRANSLATION"],
+  "mods": [
+    {
+      "id": "translation-fr",
+      "title": "French translation",
+      "author": "Doc-VR",
+      "version": "0.4.2",
+      "categories": ["TRANSLATION"],
+      "repo": "https://github.com/Doc-VR/MyTranslation",
+      "github": "Doc-VR/MyTranslation",
+      "summary": "Traduction française pour Pokémon Rouge et Bleu, générée à partir de PokeCorpus.",
+      "api": 2,
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "profile": "content",
+      "automatic_version_check": true,
+      "latest": {
+        "version": "0.4.2",
+        "tag": "v0.4.2",
+        "prerelease": false,
+        "published_at": "2026-08-05T00:00:00.000Z",
+        "zip": {
+          "name": "translation-fr-0.4.2.zip",
+          "url": "https://github.com/Doc-VR/MyTranslation/releases/download/v0.4.2/translation-fr-0.4.2.zip",
+          "size": 0
+        }
+      },
+      "update_check": "ok"
+    }
+  ]
+}
